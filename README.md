@@ -1,2 +1,1 @@
-# https-your-username.github.io-arabic-js-translator
-gg11
+# https-yousef.github.io-arabic-js-translator
